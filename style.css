@@ -737,3 +737,9 @@ footer{
 .twitter{
 	background-image:url(Source/items/twitter.png);
 }
+.test-class{
+	width:0;
+	height:0;
+	display:none;
+	color:red;
+}
